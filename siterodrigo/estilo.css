@@ -1,0 +1,59 @@
+/* Cor do Fundo */
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+a {
+  padding: 5px;
+}
+
+body {
+  background-color: #5882fa;
+  font-size: 16px;
+}
+.navegacao {
+  background-color: #ffffff;
+  position: fixed;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+  height: 45px;
+  border-bottom: 2px solid black;
+  border-top: 2px solid black;
+  margin-left: 40px;
+  padding-top: 20px;
+  padding-left: 600px;
+  margin-top: -90px;
+}
+
+.roxo {
+  color: #5882fa;
+}
+.centralizarmenu {
+  width: 900px;
+  margin: 0px auto;
+}
+.logo {
+  float: left;
+}
+
+.menu {
+  float: right;
+  padding: 10px;
+}
+.conteudo {
+  border: 2px solid black;
+  width: 720px;
+  height: 200px;
+  margin: 0px auto;
+  background: #ffffff;
+  margin-bottom: 10px;
+  margin-top: 100px;
+  padding-top: 10px;
+}
+.imagem {
+  float: left;
+  width: 200px;
+  height: 170px;
+  margin: 0 20px 20px 0px;
+}

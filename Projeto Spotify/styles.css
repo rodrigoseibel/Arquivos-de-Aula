@@ -1,0 +1,89 @@
+body {
+  background: url(https://www.scdn.co/i/home/lieVariants/bursts-tablet.svg);
+  background-color: #473af4;
+  background-position: center;
+  text-align: center 40%;
+  background-size: 80%;
+}
+
+.img-logo {
+  background: url(imagens/spotify.svg) no-repeat;
+  display: block;
+  background-size: contain;
+  width: 15rem;
+  height: 5rem;
+  color: transparent;
+  margin-top: 1.5rem;
+}
+#barra-navegacao {
+  padding-top: 3rem;
+  margin-top: 0.5rem;
+  margin-bottom: 2rem;
+  font-size: 15px;
+}
+
+/* Start Rodapé */
+footer {
+  background: black;
+  padding-top: 200px;
+  margin-top: 250px;
+  padding-bottom: 100px;
+}
+footer li {
+  color: #473af4;
+}
+#rodape {
+}
+
+/* Start Conteudo */
+
+.conteudo {
+  color: #1ed760;
+  font-size: 130px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+  padding-top: 30rem;
+}
+.conteudo h1 {
+  font-size: 20px;
+  text-align: center 40%;
+  padding-bottom: 20px;
+}
+
+/* End Start  */
+
+.img-facebook {
+  background: url(imagens/facebook.png) no-repeat;
+  display: block;
+  background-size: contain;
+  width: 15rem;
+  height: 5rem;
+  color: transparent;
+  margin-top: 1.5rem;
+}
+
+.img-twitter {
+  background: url(imagens/twitter.png) no-repeat;
+  display: block;
+  background-size: contain;
+  width: 15rem;
+  height: 5rem;
+  color: transparent;
+  margin-top: 1.5rem;
+}
+.img-insta {
+  background: url(imagens/instagram.png) no-repeat;
+  display: block;
+  background-size: contain;
+  width: 15rem;
+  height: 5rem;
+  color: transparent;
+  margin-top: 1.5rem;
+}
+.edita {
+  float: right;
+}
+
+.navbar {
+  background: #000;
+}

@@ -94,3 +94,20 @@ footer h3 {
   background: #000;
   color: #fff;
 }
+
+/* Midias */
+
+@media screen and (max-width: 767px) {
+  body {
+    background: black;
+  }
+  .img-logo {
+    background: url(imagens/spotify.svg) no-repeat;
+    display: block;
+    background-size: contain;
+    width: 15rem;
+    height: 5rem;
+    color: transparent;
+    margin-top: -1rem;
+  }
+}
